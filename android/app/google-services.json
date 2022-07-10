@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288775941509",
+    "project_id": "authentication-login-a736d",
+    "storage_bucket": "authentication-login-a736d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288775941509:android:75a5ecbdd642e3e196e8ec",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288775941509-oi1uj86tk9u7prodcfd3qckb02hbmsfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTV1JESQHfPnoawCd433DtSevOIErSM14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288775941509-oi1uj86tk9u7prodcfd3qckb02hbmsfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
